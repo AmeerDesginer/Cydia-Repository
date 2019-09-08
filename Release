@@ -1,0 +1,8 @@
+Origin: Relany Repo
+Label: Relany Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Relany Repository for tweaks

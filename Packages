@@ -1,0 +1,15 @@
+Package: com.relany.batterypercentx
+Name: BatteryPercentX [Public]
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Version: 1.3.5-2
+Author: Spark
+Maintainer: Spark
+Description: Replaces the battery icon with percentage on the iPhone X
+Depiction: https://repo.relany.co/SileoDepiction/depiction-23456734567
+SileoDepiction: https://repo.relany.co/SileoDepiction/depiction-23456734567
+Architecture: iphoneos-arm
+Section: Tweaks
+Size: 133046
+Filename: ./api/Package/com.relany.batterypercentx_1.3.5-2_iphoneos-arm.deb
+Icon: https://repo.relany.co/api/icon/Littlex.png
+MD5sum: 6e2ddcc3f73efabfab0d82011f4bc1f2

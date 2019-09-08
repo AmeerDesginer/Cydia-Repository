@@ -1,0 +1,13 @@
+{
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":11,
+   "banners":[
+      {
+         "url":"https://repo.relany.co/api/img/bg_hollow.png",
+         "title":"Hollow",
+         "package":"com.BandarHL.Hollow",
+         "hideShadow":false
+      }
+   ]
+}

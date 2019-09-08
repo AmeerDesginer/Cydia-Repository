@@ -1,0 +1,393 @@
+{
+        "minVersion": "0.1",
+        "headerImage": "https://repo.relany.co/api/img/bg_hollow2.png",
+        "tintColor": "#ef4987",
+        "tabs": [
+            {
+                "tabname": "Details",
+                "views": [
+            {
+                "markdown": "#### Download [Videos]() & [Audio]() from YouTube",
+                "useSpacing": true,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": "- Download videos HD, etc..",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": " - Download videos as audio",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": " - import audio/videos to [Apple Music]()",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },                {
+                "markdown": "- Play downloaded videos with [PiP]()",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": "- Background playback",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": " - Block ADs",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": " - Select quality in mobile data",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "markdown": "- Downloaded library to manage your downloads.",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "itemCornerRadius": 6,
+                "itemSize": "{160, 346.4533333333333}",
+                "screenshots": [
+                {
+                                "accessibilityText": "Screenshot",
+                                "url": "https://repo.relany.co/api/img/H1.PNG",
+                                "fullSizeURL": "https://repo.relany.co/api/img/H1.PNG"
+                },
+                {
+                                "accessibilityText": "Screenshot",
+                                "url": "https://repo.relany.co/api/img/H2.PNG",
+                                "fullSizeURL": "https://repo.relany.co/api/img/H2.PNG"
+                },
+                {
+                                "accessibilityText": "Screenshot",
+                                "url": "https://repo.relany.co/api/img/H3.PNG",
+                                "fullSizeURL": "https://repo.relany.co/api/img/H3.PNG"
+                },
+                {
+                                "accessibilityText": "Screenshot",
+                                "url": "https://repo.relany.co/api/img/H4.PNG",
+                                "fullSizeURL": "https://repo.relany.co/api/img/H4.PNG"
+                },
+                {
+                                "accessibilityText": "Screenshot",
+                                "url": "https://repo.relany.co/api/img/H5.PNG",
+                                "fullSizeURL": "https://repo.relany.co/api/img/H5.PNG"
+                },
+                {
+                                "accessibilityText": "Screenshot",
+                                "url": "https://repo.relany.co/api/img/H6.PNG",
+                                "fullSizeURL": "https://repo.relany.co/api/img/H6.PNG"
+                }
+                ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Latest Version",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "2019-08-10",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 12,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "BandarHL",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Contact Support",
+                    "action": "depiction-https://repo.relany.co/api/SileoDepiction/com.BandarHL.Hollow-support.json",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "spacing": 12,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">Copyright ©2019 All rights reserved | Relany Team.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "URL": "https://repo.relany.co/api/img/RelanyIcon.png",
+                    "width": 44,
+                    "height": 44,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+                    ],
+                        "class": "DepictionStackView"
+                },
+                {
+                    "tabname": "Changelog",
+                    "views": [
+                {
+                            "title": "Version 2.1",
+                            "useBoldText": true,
+                            "useBottomMargin": true,
+                            "class": "DepictionSubheaderView"
+                },
+                {
+                            "markdown": "What's New?",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- Fix broken download servers.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "title": "Version 2.0",
+                            "useBoldText": true,
+                            "useBottomMargin": true,
+                            "class": "DepictionSubheaderView"
+                },
+                {
+                            "markdown": "What's New?",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- Fix broken download button.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- Support Arabic language.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- Support french language.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- Fix some bugs with import music.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "title": "Version 1.9",
+                            "useBoldText": true,
+                            "useBottomMargin": true,
+                            "class": "DepictionSubheaderView"
+                },
+                {
+                            "markdown": "What's New?",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- add new way to download by clicking save button.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- add new option to sort all library by recently added.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- add download view controller.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- fix auto playing in audio page.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                            "markdown": "- fix some issues in background.",
+                            "useSpacing": false,
+                            "class": "DepictionMarkdownView"
+                },
+                {
+                                "title": "Version 1.8",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "What's New?",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Add tow download server",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- You can rename video/audio",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-08-10</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                                "title": "Version 1.6",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                                "title": "Version 1.7",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "What's New?",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- onvert video to audio",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-07-03</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                                "title": "Version 1.6",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "What's New?",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- The last fix of the fucking API 😂",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-07-02</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                                "title": "Version 1.5",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "What's New?",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Fix API of download.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-06-26</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                                "title": "Version 1.4",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "What's New?",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Fix automatically switch between videos.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "- Fix some bugs.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-06-17</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                                "title": "Version 1.3",
+                                "useBoldText": true,
+                                "useBottomMargin": true,
+                                "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "No changes listed.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-06-12</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+                    ],
+                "class": "DepictionStackView"
+              }
+            ],
+        "class": "DepictionTabView"
+    }

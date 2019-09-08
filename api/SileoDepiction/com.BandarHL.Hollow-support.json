@@ -1,0 +1,45 @@
+{
+"title": "Support",
+"tintColor": "#ef4987",
+"views": [
+{
+"markdown": "If you are experiencing problems with <em>Hollow</em>, you can contact the developer for support.",
+"useSpacing": true,
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "Contact",
+"class": "DepictionHeaderView"
+},
+{
+"title": "Send an Email",
+"action": "mailto:bandarhelal180@gmail.com",
+"openExternal": true,
+"class": "DepictionTableButtonView"
+},
+{
+"title": "Contact on Twitter",
+"action": "https://mobile.twitter.com/BandarHL",
+"openExternal": true,
+"class": "DepictionTableButtonView"
+},
+{
+"title": "Donation's",
+"class": "DepictionHeaderView"
+},
+{
+"title": "PayPal",
+"action": "https://www.paypal.me/fjr699",
+"openExternal": true,
+"class": "DepictionTableButtonView"
+},
+{
+"class": "DepictionSeparatorView"
+}
+],
+"class": "DepictionStackView"
+}
